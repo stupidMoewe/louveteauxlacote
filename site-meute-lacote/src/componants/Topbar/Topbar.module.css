@@ -1,7 +1,15 @@
 
 .Topbar{
     display: flex;
+    height: var(--topbarHeight);
 }
+
+.Logo{
+    height:var(--topbarHeight);
+    width:300px;
+    align-self: center;
+}
+
 .Title{
     width: 100%;
     height: var(--topbarHeight);
@@ -12,3 +20,4 @@
     font-family: "Courier, MS Courier New, Prestige, monospace";
     font-size: 30px;
 }
+
