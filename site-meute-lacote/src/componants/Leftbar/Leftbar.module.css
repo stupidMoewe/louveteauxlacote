@@ -1,0 +1,24 @@
+.LeftBar{
+    border: 1px solid black;
+    background-color: rgb(14, 35, 67);
+    color: white;
+    width: 20%;
+    height: 100%;
+}
+.Buttons{
+    margin-top: 50px;
+}
+.Button{
+    background-color: rgb(27, 62, 116);
+    border: 1px solid black;
+    width: 90%;
+    height: 50px;
+    color: whitesmoke;
+    font-size: 20px;
+    margin: 5%;
+    outline: none;
+    cursor: pointer;
+}
+.Button:hover{
+    background-color: rgb(50, 112, 206);
+}

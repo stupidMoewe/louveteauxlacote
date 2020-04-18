@@ -1,0 +1,14 @@
+
+.Topbar{
+    display: flex;
+}
+.Title{
+    width: 100%;
+    height: var(--topbarHeight);
+    background-color: rgb(21, 102, 177);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    color: whitesmoke;
+    font-family: "Courier, MS Courier New, Prestige, monospace";
+    font-size: 30px;
+}

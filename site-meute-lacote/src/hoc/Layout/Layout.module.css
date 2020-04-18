@@ -1,0 +1,11 @@
+
+.Layout{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    --topbarHeight: 80px;
+}
+.MainPage{
+    width: 100%;
+    height: calc(100% - var(--topbarHeight));
+}

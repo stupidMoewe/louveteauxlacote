@@ -1,0 +1,22 @@
+.TextArea{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    text-align: left;
+    background-color: rgb(245, 246, 247);
+    overflow-y: scroll;
+    width: thin;
+    width: 60%;
+    height: 100%;
+}
+.MainPresentation{
+    border: 2px solid black;
+    margin: 5%;
+    padding: 10px;
+}
+.Logo{
+    height:150px;
+    width:420px;
+    align-self: center;
+    background-color: transparent;
+}
