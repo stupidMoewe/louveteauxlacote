@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//stupidmoewe.github.io/louvetauxlacote/static/css/main.bdbded33.chunk.css",
+    "main.js": "//stupidmoewe.github.io/louvetauxlacote/static/js/main.b8ed6ff1.chunk.js",
+    "main.js.map": "//stupidmoewe.github.io/louvetauxlacote/static/js/main.b8ed6ff1.chunk.js.map",
+    "runtime-main.js": "//stupidmoewe.github.io/louvetauxlacote/static/js/runtime-main.f28739f6.js",
+    "runtime-main.js.map": "//stupidmoewe.github.io/louvetauxlacote/static/js/runtime-main.f28739f6.js.map",
+    "static/js/2.dd86159b.chunk.js": "//stupidmoewe.github.io/louvetauxlacote/static/js/2.dd86159b.chunk.js",
+    "static/js/2.dd86159b.chunk.js.map": "//stupidmoewe.github.io/louvetauxlacote/static/js/2.dd86159b.chunk.js.map",
+    "index.html": "//stupidmoewe.github.io/louvetauxlacote/index.html",
+    "precache-manifest.fa34cb2fa03e15fd1ab772695d2a8dc7.js": "//stupidmoewe.github.io/louvetauxlacote/precache-manifest.fa34cb2fa03e15fd1ab772695d2a8dc7.js",
+    "service-worker.js": "//stupidmoewe.github.io/louvetauxlacote/service-worker.js",
+    "static/css/main.bdbded33.chunk.css.map": "//stupidmoewe.github.io/louvetauxlacote/static/css/main.bdbded33.chunk.css.map",
+    "static/js/2.dd86159b.chunk.js.LICENSE.txt": "//stupidmoewe.github.io/louvetauxlacote/static/js/2.dd86159b.chunk.js.LICENSE.txt",
+    "static/media/logofse.png": "//stupidmoewe.github.io/louvetauxlacote/static/media/logofse.c75259c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f28739f6.js",
+    "static/js/2.dd86159b.chunk.js",
+    "static/css/main.bdbded33.chunk.css",
+    "static/js/main.b8ed6ff1.chunk.js"
+  ]
+}
