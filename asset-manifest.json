@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/louveteauxlacote/static/css/main.4cb49c65.chunk.css",
-    "main.js": "/louveteauxlacote/static/js/main.4179187c.chunk.js",
-    "main.js.map": "/louveteauxlacote/static/js/main.4179187c.chunk.js.map",
+    "main.js": "/louveteauxlacote/static/js/main.e81cc85e.chunk.js",
+    "main.js.map": "/louveteauxlacote/static/js/main.e81cc85e.chunk.js.map",
     "runtime-main.js": "/louveteauxlacote/static/js/runtime-main.7055df3d.js",
     "runtime-main.js.map": "/louveteauxlacote/static/js/runtime-main.7055df3d.js.map",
-    "static/js/2.ed85c4fa.chunk.js": "/louveteauxlacote/static/js/2.ed85c4fa.chunk.js",
-    "static/js/2.ed85c4fa.chunk.js.map": "/louveteauxlacote/static/js/2.ed85c4fa.chunk.js.map",
+    "static/js/2.61023175.chunk.js": "/louveteauxlacote/static/js/2.61023175.chunk.js",
+    "static/js/2.61023175.chunk.js.map": "/louveteauxlacote/static/js/2.61023175.chunk.js.map",
     "index.html": "/louveteauxlacote/index.html",
-    "precache-manifest.542afe9b830b9f434239c0124ecfe8fb.js": "/louveteauxlacote/precache-manifest.542afe9b830b9f434239c0124ecfe8fb.js",
+    "precache-manifest.3d83bc42ba12b246c12ac5305b6eabef.js": "/louveteauxlacote/precache-manifest.3d83bc42ba12b246c12ac5305b6eabef.js",
     "service-worker.js": "/louveteauxlacote/service-worker.js",
     "static/css/main.4cb49c65.chunk.css.map": "/louveteauxlacote/static/css/main.4cb49c65.chunk.css.map",
-    "static/js/2.ed85c4fa.chunk.js.LICENSE.txt": "/louveteauxlacote/static/js/2.ed85c4fa.chunk.js.LICENSE.txt",
+    "static/js/2.61023175.chunk.js.LICENSE.txt": "/louveteauxlacote/static/js/2.61023175.chunk.js.LICENSE.txt",
     "static/media/flagspicture-min.jpg": "/louveteauxlacote/static/media/flagspicture-min.038eea50.jpg",
     "static/media/flagspicture.jpg": "/louveteauxlacote/static/media/flagspicture.e015d50d.jpg",
     "static/media/logofse.png": "/louveteauxlacote/static/media/logofse.c75259c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7055df3d.js",
-    "static/js/2.ed85c4fa.chunk.js",
+    "static/js/2.61023175.chunk.js",
     "static/css/main.4cb49c65.chunk.css",
-    "static/js/main.4179187c.chunk.js"
+    "static/js/main.e81cc85e.chunk.js"
   ]
 }
