@@ -5,3 +5,34 @@
 .Preparation h1{
     color: var(--theme-color);
 }
+.BackButton{
+    align-self: left;
+    margin: 10px;
+    background-color: var(--theme-color);
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    cursor: pointer;
+    outline: none;
+    width: 10%;
+    text-decoration: none;
+}
+.BackButton:hover{
+    transform: scale(1.05);
+}
+.Text{
+    margin:5% 10% 5% 10%;
+}
+.Player{
+    width:400px;
+    height:300px;
+}
+
+@media only screen and (max-width: 700px){
+    .BackButton{
+        font-size: 15px;
+    }
+    .Text{
+        font-size: 10px;
+    }
+}

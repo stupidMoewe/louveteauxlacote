@@ -1,12 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import classes from './Sortie.module.css';
 
 const sortie= () =>(
     <div className={classes.Sortie}>    
-            
         <h1>Sortie en direct, <strong>samedi à 14h</strong></h1>
-            
-        <p>Cette grande chasse va se dérouler en plusieurs parties, alternant appels vidéo (avec toutes la meute ou en sizaine) et divers activitées à réaliser individuellement.
+        <Link to='/nextgc' className={classes.BackButton}>Retour</Link>
+        <p className={classes.PresentationBlock}>Cette grande chasse va se dérouler en plusieurs parties, alternant appels vidéo (avec toutes la meute ou en sizaine) et divers activitées à réaliser individuellement.
         <br />Le déroulement de chaque partie va t'être présenté ci-dessous, dans l'ordre.</p>
             
         <h3>Début</h3>

@@ -6,7 +6,7 @@ import logofse from '../../Images/logofse.png';
 
 const topbar = () => (
     <div className={classes.Topbar}>
-        <img className={classes.Logo} src={logofse} alt="Photo Thomas POULAIN"/>
+        <img className={classes.Logo} src={logofse} alt="Logo"/>
         <Menu />
     </div>
 )

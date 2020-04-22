@@ -1,10 +1,12 @@
 import React from 'react';
 import classes from './Home.module.css';
 import img from '../../Images/flagspicture.jpg';
+import img2 from '../../Images/flagspicture-min.jpg';
+
 
 const text = () => (
     <div className={classes.TextArea}>
-        <img className={classes.Image} src={img} alt="Image avec drapeaux" />
+        <img className={classes.Image} src={img2} alt="Drapeaux" />
         <h1>Meute 1ère la Côte</h1>
         <div className={classes.MainPresentation}>
             <h4>Cher louveteau,</h4>

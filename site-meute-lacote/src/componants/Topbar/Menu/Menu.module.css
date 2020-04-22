@@ -27,3 +27,12 @@
 .Button a:active{
     color:red;
 }
+@media only screen and (max-width: 700px){
+    .Buttons{
+        font-size: 12px;
+        margin-left: 10px;
+    }
+    .Button{
+        margin: 2px 4px 2px 4px;
+    }
+}

@@ -22,3 +22,9 @@
 .creationInfo{
     margin: 15px;
 }
+@media only screen and (max-width: 700px){
+    .Bottombar{
+        display: none;
+    }
+
+}

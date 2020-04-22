@@ -7,7 +7,7 @@ const bottomBar = () => (
             <button className={classes.Button}>Mentions légales</button>
             <button className={classes.Button}>Contacts</button>
         </div>
-        <p className={classes.creationInfo}>Site créé par Baloo - avril 2020</p>
+        <p className={classes.creationInfo}>Site créé par vos chefs - avril 2020</p>
     </div>
 )
 
