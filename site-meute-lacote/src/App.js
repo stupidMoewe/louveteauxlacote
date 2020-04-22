@@ -1,19 +1,19 @@
 import React from 'react';
 
 import './App.css';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter, Link } from 'react-router-dom';
 import Homepage from './containers/Homepage/Homepage';
 import Layout from './hoc/Layout/Layout';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
           <Layout>
             <Homepage />
           </Layout>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

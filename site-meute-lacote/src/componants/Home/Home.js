@@ -5,6 +5,7 @@ import img from '../../Images/flagspicture.jpg';
 const text = () => (
     <div className={classes.TextArea}>
         <img className={classes.Image} src={img} alt="Image avec drapeaux" />
+        <h1>Meute 1ère la Côte</h1>
         <div className={classes.MainPresentation}>
             <h4>Cher louveteau,</h4>
             <p>Tes chefs sont fiers de te présenter ce site qui est notre site de meute.

@@ -1,0 +1,7 @@
+.Preparation{
+    display: flex;
+    flex-direction: column;
+}
+.Preparation h1{
+    color: var(--theme-color);
+}

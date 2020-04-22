@@ -1,0 +1,8 @@
+.Contacts{
+    display: flex;
+    width: 80%;
+
+    border: 2px solid black;
+    flex-direction: column;
+    margin: 10%;
+}

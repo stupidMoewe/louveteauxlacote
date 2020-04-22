@@ -12,6 +12,7 @@
     vertical-align: center;
     cursor: pointer;
     color: black;
+    text-decoration: 'none';
 }
 
 .Button a:link{
