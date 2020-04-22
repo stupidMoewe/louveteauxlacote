@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/louveteauxlacote/static/css/main.b82eb332.chunk.css",
-    "main.js": "/louveteauxlacote/static/js/main.0dc49390.chunk.js",
-    "main.js.map": "/louveteauxlacote/static/js/main.0dc49390.chunk.js.map",
+    "main.js": "/louveteauxlacote/static/js/main.d534dabd.chunk.js",
+    "main.js.map": "/louveteauxlacote/static/js/main.d534dabd.chunk.js.map",
     "runtime-main.js": "/louveteauxlacote/static/js/runtime-main.7055df3d.js",
     "runtime-main.js.map": "/louveteauxlacote/static/js/runtime-main.7055df3d.js.map",
-    "static/js/2.b9a2ac8b.chunk.js": "/louveteauxlacote/static/js/2.b9a2ac8b.chunk.js",
-    "static/js/2.b9a2ac8b.chunk.js.map": "/louveteauxlacote/static/js/2.b9a2ac8b.chunk.js.map",
+    "static/js/2.d2a30ba5.chunk.js": "/louveteauxlacote/static/js/2.d2a30ba5.chunk.js",
+    "static/js/2.d2a30ba5.chunk.js.map": "/louveteauxlacote/static/js/2.d2a30ba5.chunk.js.map",
     "index.html": "/louveteauxlacote/index.html",
-    "precache-manifest.878c6d9c28cae9a6b29e73f83f44562d.js": "/louveteauxlacote/precache-manifest.878c6d9c28cae9a6b29e73f83f44562d.js",
+    "precache-manifest.cab3b3631676cf5561c994baa7529e53.js": "/louveteauxlacote/precache-manifest.cab3b3631676cf5561c994baa7529e53.js",
     "service-worker.js": "/louveteauxlacote/service-worker.js",
     "static/css/main.b82eb332.chunk.css.map": "/louveteauxlacote/static/css/main.b82eb332.chunk.css.map",
-    "static/js/2.b9a2ac8b.chunk.js.LICENSE.txt": "/louveteauxlacote/static/js/2.b9a2ac8b.chunk.js.LICENSE.txt",
+    "static/js/2.d2a30ba5.chunk.js.LICENSE.txt": "/louveteauxlacote/static/js/2.d2a30ba5.chunk.js.LICENSE.txt",
     "static/media/flagspicture-min.jpg": "/louveteauxlacote/static/media/flagspicture-min.038eea50.jpg",
     "static/media/flagspicture.webp": "/louveteauxlacote/static/media/flagspicture.4de1c4d6.webp",
     "static/media/flagspicture.jpg": "/louveteauxlacote/static/media/flagspicture.e015d50d.jpg",
+    "static/media/logofse-min.png": "/louveteauxlacote/static/media/logofse-min.67ff0e7c.png",
     "static/media/logofse.png": "/louveteauxlacote/static/media/logofse.c75259c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7055df3d.js",
-    "static/js/2.b9a2ac8b.chunk.js",
+    "static/js/2.d2a30ba5.chunk.js",
     "static/css/main.b82eb332.chunk.css",
-    "static/js/main.0dc49390.chunk.js"
+    "static/js/main.d534dabd.chunk.js"
   ]
 }
