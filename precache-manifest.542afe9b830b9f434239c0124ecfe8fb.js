@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43eb7f4f169f9b2bd94b2a285a142dfc",
+    "revision": "7f4b6e993df8013f2e2b90b80a8c5109",
     "url": "/louveteauxlacote/index.html"
   },
   {
-    "revision": "92fcd8edd54fbf3befe5",
-    "url": "/louveteauxlacote/static/css/main.8e7766e4.chunk.css"
+    "revision": "a1978a576f75ec46ba3e",
+    "url": "/louveteauxlacote/static/css/main.4cb49c65.chunk.css"
   },
   {
-    "revision": "683f47a2561fca8aa9f6",
-    "url": "/louveteauxlacote/static/js/2.48581f49.chunk.js"
+    "revision": "b2b7b9d64d84fe214d25",
+    "url": "/louveteauxlacote/static/js/2.ed85c4fa.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/louveteauxlacote/static/js/2.48581f49.chunk.js.LICENSE.txt"
+    "url": "/louveteauxlacote/static/js/2.ed85c4fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92fcd8edd54fbf3befe5",
-    "url": "/louveteauxlacote/static/js/main.24e528dc.chunk.js"
+    "revision": "a1978a576f75ec46ba3e",
+    "url": "/louveteauxlacote/static/js/main.4179187c.chunk.js"
   },
   {
     "revision": "3f958923afd9e8c3af1b",
