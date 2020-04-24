@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/louveteauxlacote/precache-manifest.6731249655c1bb54ba5efdb57cdc6756.js"
+  "/louveteauxlacote/precache-manifest.dfb2950b0ac1a321a27250859eccf97a.js"
 );
 
 self.addEventListener('message', (event) => {
