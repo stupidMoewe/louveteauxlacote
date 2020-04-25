@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/louveteauxlacote/static/css/main.c08fd7ac.chunk.css",
-    "main.js": "/louveteauxlacote/static/js/main.d2e9f130.chunk.js",
-    "main.js.map": "/louveteauxlacote/static/js/main.d2e9f130.chunk.js.map",
+    "main.css": "/louveteauxlacote/static/css/main.07b838a5.chunk.css",
+    "main.js": "/louveteauxlacote/static/js/main.f701e395.chunk.js",
+    "main.js.map": "/louveteauxlacote/static/js/main.f701e395.chunk.js.map",
     "runtime-main.js": "/louveteauxlacote/static/js/runtime-main.7055df3d.js",
     "runtime-main.js.map": "/louveteauxlacote/static/js/runtime-main.7055df3d.js.map",
-    "static/js/2.7470b678.chunk.js": "/louveteauxlacote/static/js/2.7470b678.chunk.js",
-    "static/js/2.7470b678.chunk.js.map": "/louveteauxlacote/static/js/2.7470b678.chunk.js.map",
+    "static/js/2.6f17436c.chunk.js": "/louveteauxlacote/static/js/2.6f17436c.chunk.js",
+    "static/js/2.6f17436c.chunk.js.map": "/louveteauxlacote/static/js/2.6f17436c.chunk.js.map",
     "index.html": "/louveteauxlacote/index.html",
-    "precache-manifest.d6f7d1967a39a47f6aa1a8b0474624d4.js": "/louveteauxlacote/precache-manifest.d6f7d1967a39a47f6aa1a8b0474624d4.js",
+    "precache-manifest.579b46d7ca40ade1f250a2d179353332.js": "/louveteauxlacote/precache-manifest.579b46d7ca40ade1f250a2d179353332.js",
     "service-worker.js": "/louveteauxlacote/service-worker.js",
-    "static/css/main.c08fd7ac.chunk.css.map": "/louveteauxlacote/static/css/main.c08fd7ac.chunk.css.map",
-    "static/js/2.7470b678.chunk.js.LICENSE.txt": "/louveteauxlacote/static/js/2.7470b678.chunk.js.LICENSE.txt",
+    "static/css/main.07b838a5.chunk.css.map": "/louveteauxlacote/static/css/main.07b838a5.chunk.css.map",
+    "static/js/2.6f17436c.chunk.js.LICENSE.txt": "/louveteauxlacote/static/js/2.6f17436c.chunk.js.LICENSE.txt",
     "static/media/Audio-loups-1.mp3": "/louveteauxlacote/static/media/Audio-loups-1.79f4b195.mp3",
     "static/media/Audio-loups-2.mp3": "/louveteauxlacote/static/media/Audio-loups-2.ed401cbc.mp3",
     "static/media/Audio-loups-3.mp3": "/louveteauxlacote/static/media/Audio-loups-3.3daeb438.mp3",
     "static/media/Carte.jpeg": "/louveteauxlacote/static/media/Carte.9e5d60ea.jpeg",
     "static/media/DocToDownload.pdf": "/louveteauxlacote/static/media/DocToDownload.cb16c589.pdf",
+    "static/media/Mosaique-GC.pdf": "/louveteauxlacote/static/media/Mosaique-GC.bb1f77f6.pdf",
+    "static/media/Mosaique.jpg": "/louveteauxlacote/static/media/Mosaique.c30ce543.jpg",
     "static/media/Priere.png": "/louveteauxlacote/static/media/Priere.60639b8f.png",
     "static/media/flagspicture-min.jpg": "/louveteauxlacote/static/media/flagspicture-min.038eea50.jpg",
     "static/media/flagspicture.webp": "/louveteauxlacote/static/media/flagspicture.4de1c4d6.webp",
@@ -27,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7055df3d.js",
-    "static/js/2.7470b678.chunk.js",
-    "static/css/main.c08fd7ac.chunk.css",
-    "static/js/main.d2e9f130.chunk.js"
+    "static/js/2.6f17436c.chunk.js",
+    "static/css/main.07b838a5.chunk.css",
+    "static/js/main.f701e395.chunk.js"
   ]
 }
